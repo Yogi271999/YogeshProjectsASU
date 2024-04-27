@@ -3,7 +3,7 @@
 # Project - 1 - Demand Prediction using Time Series Analysis
 
 ## Project Overview
-This project focuses on predicting the demand for a manufacturing industry using time series analysis from January 2023 to February 2023. Our team, consisting of three members, employed various machine learning algorithms including ARIMA, SARIMA, LSTM, and FbProphet to develop predictive models.
+This project focuses on predicting the demand for a manufacturing industry using time series analysis. Our team, consisting of three members, employed various machine learning algorithms including ARIMA, SARIMA, LSTM, and FbProphet to develop predictive models.
 
 ## Description
 The goal of this project was to analyze historical data to predict future demand in the manufacturing industry. We compared several models to identify which algorithm provides the most accurate forecast. The project involved data cleaning, exploratory data analysis, model building, and evaluation.
