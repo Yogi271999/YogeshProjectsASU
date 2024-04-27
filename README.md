@@ -1,6 +1,6 @@
 # YogeshProjectsASU
 
-# Project - 1 Demand Prediction using Time Series Analysis
+# Project - 1 - Demand Prediction using Time Series Analysis
 
 ## Project Overview
 This project focuses on predicting the demand for a manufacturing industry using time series analysis from January 2023 to February 2023. Our team, consisting of three members, employed various machine learning algorithms including ARIMA, SARIMA, LSTM, and FbProphet to develop predictive models.
@@ -27,7 +27,7 @@ The performance of each time series model was evaluated based on the mean absolu
 Based on the mean absolute errors observed, the LSTM model outperformed the other techniques, making it the most suitable choice for future demand forecasting in this manufacturing industry context.
 
 
-# Absenteeism in the Workplace: A Database Management Approach
+# Project - 2 - Absenteeism in the Workplace: A Database Management Approach
 
 ## Project Overview
 This project aims to address employee absenteeism by examining past data to classify fundamental causes and predict future occurrences using machine learning. Our team analyzed various factors affecting absenteeism and developed a database to manage and visualize these factors effectively.
